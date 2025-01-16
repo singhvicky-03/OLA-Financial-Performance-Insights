@@ -1,1 +1,2 @@
-# OLA-Financial-Performance-Insights
+This project analyzes Ola's financial performance using Excel, SQL, and Power BI to uncover key trends and insights. The analysis involves exploring revenue, expenses, profit margins, and customer growth metrics across different time periods and regions
+SQL is used to extract and manipulate data from databases, ensuring clean and accurate datasets. Excel aids in detailed calculations and data preparation, while Power BI creates dynamic dashboards and visualizations for enhanced
